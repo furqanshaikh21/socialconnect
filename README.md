@@ -1,2 +1,1 @@
-# socialconnect
-My Social Connect
+the repo name should be username.github.io
